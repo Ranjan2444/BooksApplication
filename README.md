@@ -20,3 +20,9 @@ python3 manage.py runserver
 ```
 if needed the api can be accessed from,
 > http://localhost:8000/api/books
+
+
+## After Docker Configuration to run execute:
+```
+docker-compose up --build
+```
